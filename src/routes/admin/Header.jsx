@@ -30,7 +30,7 @@ const Header = () => {
             className="cursor-pointer rounded-full w-[60px] h-[60px] bg-gray-300 flex items-center justify-center ml-4" // Adjust the margin-left as needed
           >
             <img
-              src="src/assets/hinh.jpg" // Replace with actual user avatar image URL
+              src="/assets/hinh.jpg" // Replace with actual user avatar image URL
               alt="User Avatar"
               className="rounded-full w-full h-full object-cover"
             />
